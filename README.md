@@ -1,5 +1,5 @@
-(![17319738335302900830042491312860](https://github.com/user-attachments/assets/abba24f5-30d4-4936-8b80-ecf99c0bf8c8)
-# Panduan Penggunaan Script Wi-Fi Palsu
+![17319738335302900830042491312860](https://github.com/user-attachments/assets/abba24f5-30d4-4936-8b80-ecf99c0bf8c8)
+# Evil twin attack 💻
 
 ## Pendahuluan
 Panduan ini menjelaskan cara menggunakan script Wi-Fi palsu yang terdiri dari beberapa file:
