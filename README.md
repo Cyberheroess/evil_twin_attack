@@ -80,6 +80,3 @@ Script ini mendeteksi jaringan Wi-Fi mencurigakan.
     ```bash
     python3 keamanan_wifi.py
     ```
-
-## Kesimpulan
-Jangan lupa sigma jika script nya berhasil
