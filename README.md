@@ -1,4 +1,4 @@
-![alt text](?raw=true)
+![alt text](images (1).png?raw=true)
 # Panduan Penggunaan Script Wi-Fi Palsu
 
 ## Pendahuluan
