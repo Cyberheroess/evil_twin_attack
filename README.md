@@ -1,4 +1,4 @@
-![alt text](images (1).png?raw=true)
+![alt text](https://github.com/Cyberheroess/Cyberheroess/blob/main/images%20(1).png?raw=true)
 # Panduan Penggunaan Script Wi-Fi Palsu
 
 ## Pendahuluan
