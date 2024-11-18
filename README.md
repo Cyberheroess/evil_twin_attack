@@ -16,8 +16,11 @@ Pastikan Anda memiliki lingkungan yang sesuai untuk menjalankan script ini. Anda
 
 ### Instalasi PHP dan `tmux`
 ```bash
+apt install tsu
 sudo apt-get update
 sudo apt-get install php tmux -y
+sudo apt-get install git
+git clone https://github.com/Cyberheroess/Cyberheroess.git
 ```
 
 ## Deskripsi File
