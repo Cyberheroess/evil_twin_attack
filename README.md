@@ -1,5 +1,4 @@
-![alt text](![17319738335302900830042491312860](https://github.com/user-attachments/assets/abba24f5-30d4-4936-8b80-ecf99c0bf8c8)
-?raw=true)
+(![17319738335302900830042491312860](https://github.com/user-attachments/assets/abba24f5-30d4-4936-8b80-ecf99c0bf8c8)
 # Panduan Penggunaan Script Wi-Fi Palsu
 
 ## Pendahuluan
